@@ -1,2 +1,3 @@
-FROM gcr.io/google_containers/kubernetes-apiserver-amd64:v1.9.x
+FROM k8s.gcr.io/kube-apiserver-amd64:v1.9.x
+
 MAINTAINER 'Kelvin Li <kelvin@memodir.com>'
